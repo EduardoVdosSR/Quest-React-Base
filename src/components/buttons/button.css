@@ -1,0 +1,11 @@
+.hidden {
+    display: none;
+}
+
+p{
+    font-size: 2em;
+}
+
+.color-btn{
+    margin-bottom: 30px;
+}
